@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "JS is a-w-e-s-m-e",
+    "packageVersion": "1.0.0",
+    "revealTheme": "solarized",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "MaciekTalaska",
+    "githubRepository": "js-is-awesome"
+  }
+}
