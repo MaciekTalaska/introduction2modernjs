@@ -1,0 +1,40 @@
+1. Introduction to JS
+	- short history, when, how long developed, the ugliest language of all times?
+	- JS was quite slow, and not used much, up unitl ~2004/2005 when sites becam dynamic using AJAX
+	- Webkit/blink: originally "borrowed" from KDE team (KHTML) and pushed forward mainly by Apple and then Google
+	- V8 - Google's JavaScript engine has been used as the base for the NodeJS
+	
+2. How to start modern JS development? Tools are very important!
+	- online editors: plunkr, jsfiddle, codepen - DEMO
+		- plunkr's biggest advantage is its ability to 'scaffold' a project quickly
+		- integrates with github
+		- allows saving the state of your work
+	- Vim/Emacs - did you think these guys won't be able to cope?
+	- Editors: Brackets and Atom - two most popular "new" editors
+	- 
+
+3. NodeJS + NPM
+	- NodeJS is the base of all good things in modern JS, and as many things depend on npm/node
+	- of course things work better on Linux/MacOSX, but for quite some time NodeJS has been usable on Windows (even though it is not being released on Windows as soon as on Mac/Linux, and version management is... a nightmare)
+	- npm is used to 
+
+4. Yeoman
+	- yeoman is a great tool for scaffolding your projects. Any type:
+		DEMO:
+			install node
+			install yeoman
+			yeoman genertors page
+			angularJS application (angular-fullstack)
+			reveal-js application (slides)
+			FAN (firebird angularjs)
+			ng-fullstack
+			aurelia
+			
+			and many, many more
+
+5. JS is the new -black- assembly!
+	- there are more than 250 languages capable to compile to JS (ES5.1)
+	- some very popular ones: TypeScript, CoffeeScript, scalaJS, clojureScript
+	- what is ES6?
+
+6.  
