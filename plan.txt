@@ -29,6 +29,7 @@
 			FAN (firebird angularjs)
 			ng-fullstack
 			aurelia
+			react? react-fullstack!
 			
 			and many, many more
 
@@ -37,4 +38,10 @@
 	- some very popular ones: TypeScript, CoffeeScript, scalaJS, clojureScript
 	- what is ES6?
 
-6.  
+6. e2e testing
+	- e2e vs integration testing
+	- webdriverio, nightwatch, dalek
+	- why use one of them ^ + js instead of selenium + java/net/whatever?
+	- dalekjs demonstration:
+		- installing (via npm)
+		- some simple tests (~2) 
