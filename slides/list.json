@@ -3,5 +3,8 @@
     "agenda.md",
     "js-history.md",
     "ajax.md",
-    "v8.md"
+    "v8.md",
+    "tooling.md",
+    "tooling-details.md",
+    "nodejs.md"
 ]
