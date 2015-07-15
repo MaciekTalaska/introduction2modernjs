@@ -1,6 +1,3 @@
-##  Title
-
-JavaScript is Awesome!
+## JavaScript is Awesome! 
 
 by Maciek Talaska
-note:

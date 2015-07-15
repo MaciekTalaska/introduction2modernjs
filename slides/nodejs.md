@@ -1,7 +1,10 @@
 ##  NodeJS
 
-This is a new Markdown slide
+* fast, asynchronous web server
+* based on V8 engine
+* npm = Node Package Manager
+* require
+* callback hell
+* npmjs.com - package repo
+* edgeJS
 
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
