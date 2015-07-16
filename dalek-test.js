@@ -6,15 +6,15 @@ module.exports = {
       .done();
   },
 
-	'Search demo' : function(test) {
-		test
-			.open('http://google.com')
-			.type('#lst-ib', 'dalekjs')
-			.click('button.lsb')
-			.waitForElement('span.csb')
-			.assert.exists('#res')
-			.done();	
-	}
+  'Search demo' : function(test) {
+    test
+      .open('http://google.com')
+      .type('#lst-ib', 'dalekjs')
+      .click('button.lsb')
+      .waitForElement('span.csb')
+      .assert.exists('#res')
+      .done();  
+  }
 };
 
 
